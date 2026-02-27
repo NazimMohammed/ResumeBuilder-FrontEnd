@@ -5,7 +5,7 @@ import Modal from '@mui/material/Modal';
 import { FaEdit } from 'react-icons/fa';
 import { TextField, Button } from '@mui/material';
 import { useState } from 'react';
-import { editResumeAPI, getAResumeApi } from '../services/allApi';
+import { editResumeAPI, getAResumeApi } from '../services/allAPI';
 import { useEffect } from 'react';
 import swal from "sweetalert";
 

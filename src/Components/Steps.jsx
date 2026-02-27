@@ -6,7 +6,7 @@ import StepLabel from "@mui/material/StepLabel";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import { duration, Stack, TextField } from "@mui/material";
-import { addResumeAPI } from "../services/allApi";
+import { addResumeAPI } from "../services/allAPI"
 import Swal from "sweetalert2";
 import swal from "sweetalert";
 

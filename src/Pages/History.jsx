@@ -2,7 +2,7 @@ import { Box, Paper } from '@mui/material'
 import React, { useEffect, useState } from 'react'
 import { MdDelete } from 'react-icons/md'
 import { Link } from 'react-router-dom'
-import { deleteDownloadHistoryAPI, getDownloadHistoryAPI } from '../services/allApi'
+import { deleteDownloadHistoryAPI, getDownloadHistoryAPI } from '../services/allAPI'
 
 
 function History() {
